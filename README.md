@@ -10,5 +10,5 @@
 ## :gear: 개발 엔진
 - Unity 2022.3.9f1
 
-## 프로젝트 기획안
+## :memo: 프로젝트 기획안
 - https://drive.google.com/file/d/17B_uxAlAJlqH4G3rHY7gw9de-noQp09K/view?usp=sharing
