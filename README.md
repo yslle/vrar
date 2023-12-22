@@ -17,6 +17,3 @@
 
 ## :movie_camera: 게임 실행 영상
 - [FruitHit 실행 영상](https://youtu.be/qML3y3Lia40)
-
-## :link: 빌드 파일
-- [빌드 파일 다운로드 링크](https://drive.google.com/file/d/1H0a4GM1B1wJoIF6qszwxLSz2DMTZG5cE/view?usp=sharing)
